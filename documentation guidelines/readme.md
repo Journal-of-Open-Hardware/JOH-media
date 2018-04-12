@@ -13,3 +13,5 @@
 * OSHWA - Best practices: https://www.oshwa.org/sharing-best-practices/
 
 * Open! - Best practices: https://github.com/jbon/Best-Practices-of-Open-Source-Mechanical-Hardware
+
+* JoH metapaper template: https://openhardware.metajnl.com/about/submissions/#Structure
