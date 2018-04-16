@@ -15,3 +15,5 @@
 * Open! - Best practices: https://github.com/jbon/Best-Practices-of-Open-Source-Mechanical-Hardware
 
 * JoH metapaper template: https://openhardware.metajnl.com/about/submissions/#Structure
+
+* Quality sharing best practices for Open Science Hardware : http://docubricks.com/best-practise-guide.jsp
