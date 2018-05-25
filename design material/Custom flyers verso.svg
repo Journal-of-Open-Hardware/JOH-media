@@ -16,7 +16,7 @@
    height="1371"
    viewBox="0 0 2000 1371"
    sodipodi:docname="Custom flyers verso.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,14 +49,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1001"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40163665"
-     inkscape:cx="302.6992"
-     inkscape:cy="822.04446"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.568"
+     inkscape:cx="937.3288"
+     inkscape:cy="703.6945"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <text
@@ -95,36 +95,36 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:0.89999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="71.375"
-     y="513.52551"
+     y="501.52554"
      id="text866"><tspan
        sodipodi:role="line"
        x="71.375"
-       y="513.52551"
+       y="501.52554"
        id="tspan868"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond">OH is organized around the same principles guiding Free and Open Source development </tspan><tspan
        sodipodi:role="line"
        x="71.375"
-       y="565.49023"
+       y="553.49023"
        id="tspan870"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond">and Open Access publishing. We prioritize the exchange of knowledge by creating the </tspan><tspan
        sodipodi:role="line"
        x="71.375"
-       y="617.4549"
+       y="605.45496"
        id="tspan872"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond">conditions for the study, modification, redistribution and use of hardware designs for any </tspan><tspan
        sodipodi:role="line"
        x="71.375"
-       y="669.41956"
+       y="657.41962"
        id="tspan874"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond">purpose. To foster our mission, we ensure our publications include Open research data, </tspan><tspan
        sodipodi:role="line"
        x="71.375"
-       y="721.38428"
+       y="709.38428"
        id="tspan876"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond">Free and Open Source software, and fully documented hardware which are accessible,</tspan><tspan
        sodipodi:role="line"
        x="71.375"
-       y="773.34894"
+       y="761.34894"
        id="tspan878"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond">searchable, interoperable, and reusable.</tspan></text>
   <text
@@ -143,7 +143,7 @@
        id="tspan884">http://journalofopenhardware.org</tspan></text>
   <g
      id="g972"
-     transform="translate(0,8.0000074)">
+     transform="translate(0,-15.999995)">
     <text
        id="text888"
        y="880.2887"
@@ -180,7 +180,12 @@
          id="tspan898"
          y="1113.1746"
          x="108.02084"
-         sodipodi:role="line">- ethical publishing policy</tspan></text>
+         sodipodi:role="line">- peer-review of standalone documentation</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.89999998;font-family:Garamond;-inkscape-font-specification:Garamond"
+         y="1165.1393"
+         x="108.02084"
+         sodipodi:role="line"
+         id="tspan32">- ethical publishing policy</tspan></text>
   </g>
   <image
      id="image911"
